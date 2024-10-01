@@ -21,6 +21,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - ![presencial]
 - ![híbrido]
 - ![online]
+- ![adiado]
 
 ## Eventos em 2024
 
@@ -79,7 +80,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
 - 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 17, 18 e 19: [IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024](https://eries.sbc.org.br/) - _Vitória/ES_ ![presencial]
-- 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
+- 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![adiado]
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
